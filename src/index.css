@@ -11,3 +11,156 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* CSS */
+
+body {
+  background-color: #8080803b;
+  ;
+}
+
+.table {
+  padding: 29px;
+  margin: -50px;
+  background-color: #80808066;
+  width: 100%;
+  height: 500px;
+}
+
+.table-container {
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.table-header {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: -30px;
+  background-color: white;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.add-user-btn {
+  margin-top: -26px;
+  margin-bottom: 25px;
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 882px;
+}
+
+.add-user-btn:hover {
+  background-color: #0056b3;
+}
+
+.user-table {
+  background-color: #fffffff7;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.user-table th {
+  background-color: #f1f1f1;
+}
+
+.edit {
+  background-color: white;
+  font-size: 14px;
+  color: blue;
+  border: 0px;
+}
+
+.delete {
+  background-color: white;
+  margin: 8px;
+  color: red;
+  border: 0px;
+}
+
+/* Adduser */
+
+h1 {
+  padding: 13px;
+  font-size: 25px;
+  font-family: sans-serif;
+  margin-left: 282px;
+  background-color: white;
+  margin-right: 288px;
+  margin-top: 115px;
+}
+
+.inputText {
+
+  border: 0px solid;
+  border-bottom: 1px solid;
+  padding: 10px;
+}
+
+
+.adduser {
+  margin-right: 284px;
+  padding: 165px;
+  background-color: white;
+  margin-left: 280px;
+}
+
+.save {
+  padding: 8px;
+  margin-left: 997px;
+  margin-top: 120px;
+}
+
+.sub-btn {
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 7px;
+  margin: 10px;
+}
+
+.del-btn {
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 7px;
+  margin: 10px;
+}
+
+.update {
+  background-color: blue;
+  border: 0px;
+  padding: 4px;
+  color: white;
+  margin: 20px;
+}
+
+.update-btn {
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 7px;
+  margin: 10px;
+}
+
+.dis-btn {
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 7px;
+  margin: 10px;
+}
